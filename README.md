@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://scrambledtech.com">newsletter</a> .
+    <a href="https://achrafash.com">blog</a> .
+    <a href="https://twitter.com/achrafash_">𝕏</a>
+  </samp>
+</p>
 
-<!--
-**AchrafAsh/achrafash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>open to work</samp>
+  <br/>
+  <samp>
+    <a href="https://escape.tech/blog/author/achraf/">technical writing</a> .
+    <a href="">fullstack typescript/react</a> .
+    <a href="">the *real* fullstack</a> <span title="from idea to promotion">ⓘ</span>
+  </samp>
+</p>
