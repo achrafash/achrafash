@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <samp>open to work</samp>
+  <samp><s>open to work</s></samp>
   <br/>
   <samp>
     <a href="https://escape.tech/blog/author/achraf/">technical writing</a> .
